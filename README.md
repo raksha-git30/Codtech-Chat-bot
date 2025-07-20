@@ -70,3 +70,7 @@ Integrating React with backend APIs and sockets
 Structuring a full-stack JavaScript project
 
 Deploying and testing real-time applications
+
+#output 
+
+<img width="1915" height="1002" alt="Image" src="https://github.com/user-attachments/assets/5f474a4a-edf1-4fbd-a090-08aa927a79fe" />
